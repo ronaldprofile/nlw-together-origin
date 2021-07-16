@@ -1,0 +1,30 @@
+#contact {
+  background-color: var(--body-color);
+}
+
+#contact .grid {
+  gap: 4rem;
+}
+
+#contact .text p {
+  margin-bottom: 2rem;
+}
+
+#contact .button i,
+#contact .find-me ul li i {
+  font-size: 1.5rem;
+  margin-right: 0.625rem;
+}
+
+#contact .find-me ul.grid {
+  gap: 2rem;
+}
+
+#contact .find-me ul li {
+  display: flex;
+  align-items: center;
+}
+
+#contact .find-me ul li i {
+  color: var(--base-color);
+}
