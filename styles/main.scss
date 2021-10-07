@@ -496,7 +496,6 @@ footer {
   background: var(--base-color);
 }
 
-/* 768px até 991px */
 @media (min-width: 768px) and (max-width: 991px) {
   :root {
     --title-font-size: 1.75rem;
@@ -535,7 +534,6 @@ footer {
   }
 }
 
-/* 992px até 1190px */
 @media (min-width: 992px) and (max-width: 1199px) {
   :root {
     --title-font-size: 2rem; /* 32px */
@@ -597,6 +595,11 @@ footer {
 }
 
 @media (min-width: 1200px) {
+  :root {
+    --title-font-size: 2.25rem; /** 36px **/
+    --subtitle-font-size: 1.125rem; /** 18px **/
+  }
+
   .container {
     max-width: 1120px;
     margin: 0 auto;
