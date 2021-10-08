@@ -1,4 +1,4 @@
-  <img src="https://ik.imagekit.io/gczsuhmv3/preview_tp-Vrvzuxk.png">
+  <img src="https://ik.imagekit.io/gczsuhmv3/screenshot-rocks_qA61LEdc0.svg?updatedAt=1633698950642">
 
 ---
 
